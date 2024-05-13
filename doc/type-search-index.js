@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Temperatron2000","l":"Controller"},{"p":"Temperatron2000","l":"GestoreDB"},{"p":"Temperatron2000","l":"GestoreSR"},{"p":"Temperatron2000","l":"Main"},{"p":"Temperatron2000","l":"Orologio"},{"p":"Temperatron2000","l":"Record"}];updateSearchResults();

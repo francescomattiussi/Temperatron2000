@@ -1,0 +1,19 @@
+# file di compilazione
+Temperatron2000/bin
+
+# librerie
+Temperatron2000/lib
+
+# file contenente il database
+Temperatron2000/database
+
+# file con le misurazioni ottenute
+dati
+
+# file ancora in fase di sviluppo
+beta
+arduino
+
+# file non inerenti
+relazione
+flowcharts/*.jpg
