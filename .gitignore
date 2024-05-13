@@ -17,3 +17,6 @@ arduino
 # file non inerenti
 relazione
 flowcharts/*.jpg
+
+# file di macos
+.DS_Store
